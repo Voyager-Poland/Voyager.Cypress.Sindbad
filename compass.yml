@@ -3,7 +3,7 @@ id: 'ari:cloud:compass:6f4ff44f-3daf-4331-936e-f105ac8a0cc5:component/dbdd9e20-3
 description: Servis do testowania strony STest
 configVersion: 1
 typeId: WEBSITE
-ownerId: null
+ownerId: 'ari:cloud:identity::team/e332590f-359b-4437-86b1-6c1491faae24'
 fields:
   tier: 4
 links:
