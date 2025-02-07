@@ -1,0 +1,28 @@
+name: Voyager.Cypress.Sindbad
+id: 'ari:cloud:compass:6f4ff44f-3daf-4331-936e-f105ac8a0cc5:component/dbdd9e20-37cf-4147-9a6c-5bc93cc76ce7/40324810-0672-4ccf-a0aa-45e1b6075c15'
+description: null
+configVersion: 1
+typeId: SERVICE
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/Voyager-Poland/Voyager.Cypress.Sindbad'
+relationships: {}
+labels:
+  - 'source:github'
+customFields:
+  - name: SQLLogin
+    type: text
+    value: null
+  - name: SVNRepository
+    type: text
+    value: null
+  - name: Supervisor
+    type: text
+    value: null
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
